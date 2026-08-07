@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ivanyurievich01-max.github.io/aurenta/sitemap.xml
